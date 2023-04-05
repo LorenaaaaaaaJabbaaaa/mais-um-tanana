@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>periclão bolado</title>
+    <style>
+        body{background-color: rgba(162, 226, 43, 0.562);}
+    </style>
+</head>
+
+<header>
+    <P>CABEÇALHO</P>
+</header>
+
+<body>
+    <img src="../Imagens/periclesEmo.jfif" alt="aqui tem um periclao emo com poesia" style="height: 350px;"> <br/><br/>
+    <img src="https://pbs.twimg.com/ext_tw_video_thumb/1431095293601320964/pu/img/Epc_gEbSwju6MvfL.jpg:large" alt="periclao paramore" style="height: 350px;">
+    
+    <P>
+        Tentei fazer valer a pena <BR/>
+        
+        </P>
+</body>
+
+<footer>
+    <p>RODAPÉ</p>
+</footer>
+
+</html>
